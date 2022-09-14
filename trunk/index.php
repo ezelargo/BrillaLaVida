@@ -27,7 +27,7 @@
 										<div class="container">
 											<div class="row">
 												<div class="col-md-12">
-                                                    <h2>Brilla la vida</h2>
+                                                    <h2>Brilla la vidas</h2>
                                                     <p>Somos un grupo solidario con muchas ganas de ayudar y cambiar la realidad de muchas personas.</p>
 													<div class="home_btn">
 														<a href="sobre-nosotros.php" class="app-btn wow bounceIn page-scroll home_btn_color_two" data-wow-delay=".6s" >Sobre nosotros</a>
