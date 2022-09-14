@@ -1,0 +1,18 @@
+Renovar certificado Let's Encrypt
+
+Por linea de comando usando le64.exe:
+le64.exe --key account.key --csr domain.csr --csr-key domain.key --crt brillalavida.crt --domains "www.brillalavida.org,brillalavida.org" --generate-missing --handle-as dns --renew 365 --live
+
+https://www.sherweb.com/blog/when-given-crt-and-key-files-make-a-pfx-file/
+Por linea de comando usando OpenSSL.exe (convertir .crt a pfx):
+set OPENSSL_CONF=c:\OpenSSL\bin\openssl.cfg (en windows configurar archivo openssl.cfg)
+openssl.exe pkcs12 -export -out brillalavida.pfx -inkey domain.key -in brillalavida.crt
+openssl.exe pkcs12 -export -out C:\xampp\htdocs\webs\brillalavida.org\ssl\20190401_brillalavida.pfx -inkey C:\xampp\htdocs\webs\brillalavida.org\ssl\domain.key -in C:\xampp\htdocs\webs\brillalavida.org\ssl\20190401_brillalavida.crt
+
+Para renovar el certificado en Smarter => eliminar todos los relacionados al certificado anterior y dar de alta uno nuevo.
+
+Crear certificado por primera vez => https://zerossl.com/usage.html#First_time_run_and_regular_use
+no olvidate el comando set OPENSSL_CONF=C:\OpenSSL-Win32\bin\openssl.cfg
+https://www.sslshopper.com/article-most-common-openssl-commands.html
+
+le64.exe --key account.key --csr mydomain.csr --csr-key mydomain.key --crt appfitworks.crt --domains "www.app.fitworksactivate.com.ar,app.fitworksactivate.com.ar" --generate-missing --handle-as dns --live
