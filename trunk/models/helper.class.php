@@ -19,14 +19,14 @@ class Helper {
 
   /* Produccion */    
   public static $SMTP_HOST = "mail.brillalavida.org";
-  public static $SMTP_PASSWORD = "333*Pajarito666";
-  public static $SMTP_USERNAME = "consultas@brillalavida.org";
+  public static $SMTP_PASSWORD = "6TLvJg8JFNsT8tw*";
+  public static $SMTP_USERNAME = "hola@brillalavida.org";
   public static $PORT = 25;
   public static $SMTP_ISLOCAL = FALSE;
-  public static $SMTP_FROM = "consultas@brillalavida.org";
+  public static $SMTP_FROM = "hola@brillalavida.org";
   public static $MAIL_TO = "brillalavidaorganizacion@gmail.com";
   public static $MAIL_RRHH_TO = "brillalavidarrhh@gmail.com";
-  public static $MAIL_BCC = "consultas@brillalavida.org";    
+  public static $MAIL_BCC = "hola@brillalavida.org";    
   
   
   private static $EnableRecaptcha = true;

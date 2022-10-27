@@ -3,8 +3,9 @@
    <?php
       require_once("models/header.class.php");
       $header = new Header();
-      $header->setTitle("Formar parte de Brilla");    
-      $header->setDescription("Buscamos personas comprometidas con el prójimo, empáticos, que tenga la vocación de ayudar, capacidad para trabajar en equipo y ganas de crecer.");
+      $header->setTitle("Sé voluntari@");    
+      $header->setDescription("Si sos estudiante universitario, te recibiste y querés tener experiencia de campo o simplemente te gusta colaborar y te apasiona nuestra causa social unite a nuestro equipo y formá parte de Brilla. 
+      .");
       include("shared/header.php");
       ?>	
     <body data-spy="scroll" data-offset="80">        		
@@ -13,7 +14,7 @@
 					        
         <?php 
             $top_icon = 'fa-users';
-            $top_title = 'Formar parte de Brilla la vida';
+            $top_title = 'Sé voluntari@';
             include("shared/section-top.php"); 
         ?>
 				
@@ -26,123 +27,47 @@
 				   </div>					                                                           
                    <div class="col-md- col-sm-12 col-xs-12">
 						<div class="about_content">
-							<h1>Formar parte de nuestro equipo.</h1>
-							<p>Si algo nos distingue es nuestros valores, donde los voluntarios son los protagonistas y actores principales para nuestro trabajo solidario.
-                            Por eso buscamos personas comprometidas con el prójimo, empáticos, que tenga la vocación de ayudar, capacidad para trabajar en equipo y ganas de crecer.</p>
-						</div>
+							<h2>Beneficio exclusivo para Voluntarios:</h2><br>
+							<p>Todos <b>nuestros colaboradores cuentan con el beneficio de acceder gratuitamente a un programa de liderazgo</b>  donde recibirán capacitaciones de oratoria/coaching/ trato con el público/ gestión de problemáticas laborales/ gestión de emociones en presentaciones y demás temáticas de vital importancia para el crecimiento personal.
+                            <br><br>
+                            Nuestro mayor recurso son los voluntarios, sin ellos no sería posible todo lo que hemos logrado por ello buscamos expandirnos y sumar cada día más personas que quieran unirse a nuestra razón de ser y ayudarnos a multiplicar beneficiarios.
+                            <br><br>
+                            razón de ser y ayudarnos a multiplicar beneficiarios.
+                            Todos pueden aportar desde sus capacidades, todos tenemos algo que nos hace únicos y valiosos, hay mucha gente que te necesita y a la que podés cambiarle la vida, siendo de guía, apoyo y compañía a la vez que ganás experiencia y tomás confianza al  hablar en público, transmitir tus ideas y ponés en práctica todo lo que aprendiste en tu carrrera.</p>
+						    <br><br>
+                            <b>Impactemos juntos en la vida de otros para transformar la sociedad.</b>
+                        </div>
                     </div>                   
 				</div>
-			</div>
-		</section>			
-        
-        <section class="testimonial section-padding" style="background-image: url(assets/img/bg/background.png);  background-size:cover; background-position: center center;">
-	        <div class="container">
-	            <div class="row">				
-	                <div class="col-sm-10 col-sm-offset-1 col-xs-12">                    
-                        <div class="text-center">                            
-                            <div class="testimonial-text">
-                                <p style="font-size: 1em;">Nos encontramos incorporando estudiantes o graduados de las carreras Relaciones Públicas, Tecnicatura, ceremonial y protocolo, Organización integral de eventos, Marketing, Publicidad, Comunicación social, Administración de empresas y Contador público.</p>
-                                <p style="font-size: 1em;">Profesionales con trayectoria que quieran sumarse para brindar asesoramiento a las áreas de nuestra organización: Recursos humanos, Eventos, Comunicación y Relaciones institucionales, Marketing y Contable.</p>                                
-                            </div>                            
-                        </div>						
-					</div>				
-				</div>
-			</div>	
-        </section>
-        
-        <section class="pricing_table section-padding">
-			<div class="container">
-				<div class="row text-center">
-					<div class="section-title">
-						<h2>Nuestras busquedas</h2>
-					</div>
-					<div class="col-sm-12 col-md-12">				   
-					   <div class="plan  first">
-						  <div class="head head_color_one"><h3>Si sentís identificado y buscas un excelente clima laboral súmate a nuestro equipo.</h3></div> 						  
-						  <ul class="item-list">
-							  <li><i class="fa fa-user-plus" aria-hidden="true"></i> Community Manager</li>
-							  <li><i class="fa fa-calendar-check-o" aria-hidden="true"></i> Coordinador de Eventos</li>
-                              <li><i class="fa fa-bullhorn" aria-hidden="true"></i> Coordinador de Comunicación y Relaciones institucionales</li>
-                              <li><i class="fa fa-line-chart" aria-hidden="true"></i> Analista de Marketing</li>
-                              <li><i class="fa fa-calculator" aria-hidden="true"></i> Analista Contable</li>
-                              <li><i class="fa fa-graduation-cap" aria-hidden="true"></i> Abogado</li>
-						  </ul>                           
-                          <section class="footer_contact_area section-padding">
-                                <div class="container-fluid">
-                                    <div class="row">	
-                                        <div class="section-title text-center wow zoomIn">
-                                            <h2>Envianos tu Curriculum Vitae</h2>
-                                            <span></span>						
-                                        </div>									
-                                        <div class="col-md-8 col-md-offset-2 col-sm-12 col-xs-12">                                                              
-                                              <div class="footer_contact">
-                                                   <form id="cv-form" method="post" enctype="multipart/form-data" action="models/sendcv.php">
-                                                        <div class="row">
-                                                            <div class="status alert alert-info" style="display: none">
-                                                              <strong>Enviando CV...</strong>
-                                                            </div>
-                                                            <div class="status alert alert-success" style="display: none">
-                                                              <strong style="margin-right: 5px;">Enviado!</strong>Su CV fue enviado correctamente.
-                                                            </div>
-                                                            <div class="status alert alert-danger" style="display: none">
-                                                              <strong style="margin-right: 5px;">Error!</strong><span id="message"></span>
-                                                            </div>
-                                                            <div class="form-group col-md-12">
-                                                                <input type="text" name="name" class="form-control" id="first-name" placeholder="Nombre y Apellido" required="required">
-                                                            </div>
-                                                            <div class="form-group col-md-12">
-                                                                <input type="email" name="email" class="form-control" id="email" placeholder="Correo electronico" required="required">
-                                                            </div>
-                                                            <div class="form-group col-md-12">
-                                                                <input type="file" name="file_cv" class="form-control" id="file_cv" accept=".doc,.docx,.ppt,.pptx,.pdf">
-                                                            </div>
-                                                            <div class="form-group col-md-12">
-                                                                <div class="g-recaptcha" data-sitekey="6LcwYj4UAAAAAIx5eW4atSIi2wIbc9Ue2slGmkw3"></div>
-                                                                <input type="text" name="recaptcha" class="form-control" id="g-recaptcha" style="display: none;">  
-                                                            </div>                                                            
-                                                        </div>
-                                                   </form>
-                                               </div>
-                                        </div>                                                                                       
-                                        <a id="enviarCv" class="btn btn-light-bg" href="##"><b><i class="fa fa-thumbs-o-up" aria-hidden="true"></i> ¡Envianos tu CV ahora!</b></a>                                                                                                                                                                    
-                                    </div>
-                                </div>
-                          </section>                                                          
-					   </div>					 					
-					</div>
-				</div>
-			</div>
+			</div>                    
 		</section>
-        
-        <section class="testimonial section-padding" style="background-image: url(assets/img/bg/background.png);  background-size:cover; background-position: center center;">
-	        <div class="container">
-	            <div class="row">				
-	                <div class="col-sm-10 col-sm-offset-1 col-xs-12">                    
-                        <div class="text-center">                            
-                            <div class="testimonial-text">
-                                <p>También podes enviarnos tu Curriculum Vitae a</p>
-                                <h4><a href="mailto:brillalavidarrhh@gmail.com" style="text-transform: lowercase; font-size:1.1em;">brillalavidarrhh@gmail.com</a></h4>
-                            </div>                            
-                        </div>						
-					</div>				
+        <section id="about" class="about_us section-padding">
+			<div class="container">
+				<div class="row">					                  					                                                           
+                   <div class="col-md- col-sm-12 col-xs-12">
+						<div class="about_content">
+                        <img src="assets/img/socials/brilla_la_vida_dr_Oxilia2.png" alt="Dr Oxilia">
+                        <br><br>
+                        <p>Así lo hizo el doctor Mario Oxilia dermatólogo del  Hospital Ramos Mejía, uno de los más importantes del país, dio una charla abierta sobre problemas de piel y métodos anticonceptivos muy beneficiosa para la comunidad.</p>
+                        <br><br>
+                        </div>
+                    </div>                   
 				</div>
-			</div>	
-        </section>
-                                                  
-        <?php include('shared/portfolio.php'); ?>
-        
+			</div>                    
+		</section>
         <section class="section_grey section-padding">
 			<div class="container">
 				<div class="row text-center">
-                    <a class="btn btn-light-bg" href="nuestras-causas.php" title="Mira nuestras causas">
+                    <a class="btn btn-light-bg" href="contacto.php" title="¡Sumate a la iniciativa!">
                         <b>
-                            <i class="fa fa-heart" aria-hidden="true"></i> 
-                            ¡Nuestros objetivos para el 2018!
+                            Inscribite y aportá tu conocimiento
                         </b>
                     </a>
                 </div>
             </div>
         </section>
+        
+       
                                         
         <?php include('shared/contact.php'); ?>
 		

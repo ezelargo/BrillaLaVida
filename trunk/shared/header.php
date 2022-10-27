@@ -24,7 +24,7 @@
     <!-- animate CSS -->		
     <link rel="stylesheet" href="assets/css/animate.css">			
     <!-- Style CSS -->
-    <link rel="stylesheet" href="assets/css/style.css">				
+    <link rel="stylesheet" href="assets/css/style.css">			
     <link rel="stylesheet" href="assets/css/responsive.css">				
     
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->

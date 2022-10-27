@@ -548,6 +548,7 @@ letter-spacing: 1px;
 line-height: 48px;
 margin-bottom: 15px;
 }
+
 .about_content p{}
 
 .mbtop{margin-top: 20px;}
@@ -1008,6 +1009,7 @@ position:relative;
 color:#fff;
 margin-bottom:30px;
 }
+
 .testimonial-text p {
 color: #fff;
 font-size: 18px;
@@ -1509,6 +1511,8 @@ padding: 40px 0;
 .section_grey
 {
   background: #f1f1f1;  
-} 
+}
 
-
+.circular--square {
+    border-radius: 50%;
+  }

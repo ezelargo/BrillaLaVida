@@ -121,7 +121,7 @@
                 <span class="icon-bar"></span>
             </button>
             <a href="index.php" class="navbar-brand">
-                <img src="assets/img/logo/brilla_la_vida_logo_rectangular_440x109.png" alt="logo">
+                <img src="assets/img/logo/brilla_la_vida_logo_nuevo1.png" alt="logo">
             </a>
         </div>
         <div class="navbar-collapse collapse">
@@ -133,24 +133,17 @@
                                 <li><a href="index_video.html">Home Video</a></li>
                             </ul>-->
                     </li>
-                    <li><a class="page-scroll" href="sobre-nosotros.php">Sobre nosotros</a></li>						
-                    <li><a class="page-scroll" href="nuestro-equipo.php">
-                        <i class="fa fa-users" aria-hidden="true"></i> El equipo</a></li>
+                    <li><a class="page-scroll" href="sobre-nosotros.php">Conocenos</a>
+                        <ul class="sub-menu">
+                            <li><a class="page-scroll" href="que-hacemos.php">¿Qué hacemos?</a></li>
+                            <li><a  class="page-scroll" href="quienes-somos.php"><i class="fa fa-users" aria-hidden="true"></i>¿Quienes somos?</a></li>
+                        </ul>
+                    </li>						
+                    <li><a class="page-scroll" href="nuestra-historia.php">Nuestra historia</a></li>
+                    <li><a class="page-scroll" href="formar-parte-de-brilla-la-vida.php">Sé voluntari@</a></li>
                     <li><a class="page-scroll" href="nuestras-causas.php">Nuestras causas</a></li>
-                    <li>
-                        <a class="page-scroll" href="eventos.php">
-                            <i class="fa fa-calendar" aria-hidden="true"></i> Eventos
-                        </a>
-                    </li>
-                    <li><a class="page-scroll" href="formar-parte-de-brilla-la-vida.php">Formar parte</a></li>
-                    <li><a class="page-scroll" href="confian-en-nosotros.php">Confían en brilla</a></li>
-                    <li><a class="page-scroll" href="artistas-solidarios.php">
-                        <i class="fa fa-magic" aria-hidden="true"></i> Artistas</a></li>
-                    <li>
-                        <a class="page-scroll" href="dona-ahora.php">
-                            <i class="fa fa-heart" aria-hidden="true"></i> Dona
-                        </a>
-                    </li>
+                    <li><a class="page-scroll" href="cambia-tu-entorno.php">Cambia tu entorno</a></li>
+
                     <li><a class="page-scroll" href="contacto.php">Contacto</a></li>
                     <!--
                         <li><a class="page-scroll" href="service.html">Service</a></li>						
