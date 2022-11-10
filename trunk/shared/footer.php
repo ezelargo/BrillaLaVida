@@ -5,7 +5,8 @@
                 <div class="single_footer">
                     <h4>Sobre Brilla</h4>
                     <div class="footer_contact">
-                        <p>Somos un grupo solidario con muchas ganas de ayudar y cambiar la realidad de muchas personas. unimos nuestros talentos y conocimientos para poder aportar nuestro granito de arena a la sociedad.</p>
+                        <p>Unidos queremos brindar a los emprendedores y profesionales que quieren ganar experiencia el acceso al conocimiento y las relaciones interpersonales que puedan posicionarlos en un entorno que impulse su negocio/carrera.
+                        Las empresas encuentran de la mano de Brilla diversas oportunidades a las que sumarse para construir una causa social que los conecte con su público.</p>
                     </div>
                 </div>	
             </div><!--- END COL -->

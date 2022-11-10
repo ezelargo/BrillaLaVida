@@ -24,6 +24,7 @@
     <!-- animate CSS -->		
     <link rel="stylesheet" href="assets/css/animate.css">			
     <!-- Style CSS -->
+    <link rel="stylesheet" href="assets/css/title_subtitle.css">
     <link rel="stylesheet" href="assets/css/style.css">			
     <link rel="stylesheet" href="assets/css/responsive.css">				
     

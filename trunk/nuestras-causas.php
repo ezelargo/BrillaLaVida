@@ -45,17 +45,6 @@
 				<div class="row" style="margin-top: 20px;">									                    
                     <div class="col-md-6 col-sm-12 col-xs-12">
 					 	<div class="about_content">
-							<h1>Brilla en el deporte</h1>
-							<p style="margin-left: 10px;">
-							Somos conscientes de los beneficios que genera el deporte y tener un espacio común donde entablar relaciones sociales en la vida de las personas, por eso desde Brilla queremos difundir las bondades de la actividad física y los efectos positivos tanto en niños como en adultos.
-							<br><br>
-							Con nuestros voluntarios propiciamos encuentros en donde se pueda crear un espacio de juego interactivo y pedagógico que nutra el autoestima, el cuidado personal y la relación sana y respetuosa con el prójimo. Los clubes barriales necesitan tu apoyo para continuar con su labor social, unite a nosotros y hagamos crecer tu club.</p>
-						</div>
-                    </div>                   
-				</div>
-				<div class="row" style="margin-top: 20px;">									                    
-                    <div class="col-md-6 col-sm-12 col-xs-12">
-					 	<div class="about_content">
 							<h1>Brilla con los emprendedores</h1>
 							<p style="margin-left: 10px;">
 							Emprender significa arriesgar, vencer los miedos y lanzarse a transitar por un camino desconocido, pero qué bueno es hacerlo con las herramientas y la compañía adecuada. En Brilla queremos acompañarte y capacitarte para que el temor a lo desconocido pueda mermar y comiences a vivir la vida desde tu propósito. 

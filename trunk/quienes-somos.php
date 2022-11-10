@@ -53,9 +53,9 @@
             <div class="col-md-3 col-sm-6">
                 <div class="single_team"> 
                     <img class="img-responsive" src="assets/img/team/brilla_la_vida_romina_blanco_nueva.jpg" alt="Romina Blanco">
-                    <h5 class="team-name">Lideresa y fundarora: Romina Blanco</h5>
+                    <h5 class="team-name">Lider: Romina Blanco</h5>
                     <div class="team-hover">
-                        <h5 style="font-size:.9em;">Recursos humanos</h5>
+                        <h5 style="font-size:.9em;">Lider de Recursos humanos</h5>
                         <br>
                         <p style="font-size:.9em;">
             
@@ -73,7 +73,7 @@
             <div class="col-md-3 col-sm-6">
                 <div class="single_team"> 
                     <img class="img-responsive" src="assets/img/team/brilla_la_vida_soledad_sciutto_nuevo.jpg" alt="Soledad Sciutto">
-                    <h5 class="team-name">Co-Líder: <br> Soledad Sciutto</h5>
+                    <h5 class="team-name">Lider de Redes Sociales: <br> Soledad Sciutto</h5>
                     <div class="team-hover">
                         <h5 style="font-size:.9em;">Relaciones Sociales</h5>
                         <br>
@@ -99,8 +99,8 @@
             </div>   
             <div class="col-md-3 col-sm-6">
                 <div class="single_team"> 
-                    <img class="img-responsive" src="assets/img/team/brilla_la_vida_foto_nueva3.jpg" alt="Sofía Viduerio">
-                    <h5 class="team-name">Colaboradora: <br> Sofia Vidueiro</h5>
+                    <img class="img-responsive" src="assets/img/team/brilla_la_vida_foto_nueva3.jpg" alt="Eliana Ramos">
+                    <h5 class="team-name">Colaboradora: <br> Eliana Ramos</h5>
                     <div class="team-hover">
                         <h5 style="font-size:.9em;">Community Mannager</h5>
                         <br>
@@ -112,8 +112,8 @@
             </div> 
             <div class="col-md-3 col-sm-6">
                 <div class="single_team"> 
-                    <img class="img-responsive" src="assets/img/team/brilla_la_vida_foto_nueva2.jpg" alt="Eliana Ramos">
-                    <h5 class="team-name">Colaboradora: <br> Eliana Ramos</h5>
+                    <img class="img-responsive" src="assets/img/team/brilla_la_vida_foto_nueva2.jpg" alt="Sofia Vidueiro">
+                    <h5 class="team-name">Colaboradora: <br> Sofia Vidueiro</h5>
                     <div class="team-hover">
                         <h5 style="font-size:.9em;">Community Mannager</h5>
                         <br>
@@ -122,22 +122,41 @@
                         <br> 
                     </div>
                 </div>
-            </div>                                                                                      
+            </div>
+            <div class="col-md-3 col-sm-6">
+                <div class="single_team"> 
+                    <img class="img-responsive" src="assets/img/team/brilla_la_vida_Dorka_Tirado.png" alt="Dorka Tirado">
+                    <h5 class="team-name">Colaboradora: <br> Dorka Tirado</h5>
+                    <div class="team-hover">
+                        <h5 style="font-size:.9em;">Community Mannager</h5>
+                        <br>
+                        <p style="font-size:.9em;">
+            
+                        <br> 
+                    </div>
+                </div>
+            </div>                                                                                                        
         </div>
     </div>
 </section>
-<section id="team" class="template_team">
-    <div class="container"> 
-        <div class="row text-center"> 
-            <div class="section-title wow zoomIn">
-                <p><b>Misión:</b> buscamos que la educación sea un recurso accesible para todas las personas porque consideramos que es una herramienta que puede cambiar el mundo.
-                <br><br>
-                <b>Visión:</b> un mundo más equitativo, igualitario e inclusivo es posible si unimos recursos y aportamos esfuerzos dentro de un marco de cooperación mutua.
-                </p>
+<section class="about_us section-padding">
+			<div class="container">
+				<div class="row">
+                    <div class="col-md-6 col-sm-12 col-xs-12">
+						<div class="about_content text-center">
+							<h1>Visión</h1>
+                            <p>Un mundo más equitativo, igualitario e inclusivo es posible si unimos recursos y aportamos esfuerzos dentro de un marco de cooperación mutua.</p>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-sm-12 col-xs-12">
+						<div class="about_content text-center">
+							<h1>Misión</h1>
+                            <p>Buscamos que la educación sea un recurso accesible para todas las personas porque consideramos que es una herramienta que puede cambiar el mundo.</p>                            
+                        </div>
+                    </div>
+                </div>
             </div>
-        </div>
-    </div>                   
-</section>
+        </section>
         <?php include('shared/testimonios.php'); ?>   
 
         <?php include('shared/contact.php'); ?>
