@@ -25,7 +25,7 @@
 						<h2>Trabajar en Brilla la vida es formar parte de un equipo muy humano.</h2>
 						<span></span>
 				   </div>					                                                           
-                   <div class="col-md- col-sm-12 col-xs-12">
+                   <div class="col-md-12 col-sm-12 col-xs-12">
 						<div class="about_content">
 							<h2>Beneficio exclusivo para Voluntarios:</h2><br>
 							<p>Todos <b>nuestros colaboradores cuentan con el beneficio de acceder gratuitamente a un programa de liderazgo</b>  donde recibirán capacitaciones de oratoria/coaching/ trato con el público/ gestión de problemáticas laborales/ gestión de emociones en presentaciones y demás temáticas de vital importancia para el crecimiento personal.
@@ -35,32 +35,24 @@
                             razón de ser y ayudarnos a multiplicar beneficiarios.
                             Todos pueden aportar desde sus capacidades, todos tenemos algo que nos hace únicos y valiosos, hay mucha gente que te necesita y a la que podés cambiarle la vida, siendo de guía, apoyo y compañía a la vez que ganás experiencia y tomás confianza al  hablar en público, transmitir tus ideas y ponés en práctica todo lo que aprendiste en tu carrrera.</p>
 						    <br><br>
-                        </div>
-                    </div>                   
-				</div>
-			</div>                    
-		</section>
-        <section class="section-padding">
-			<div class="container">
-				<div class="row cold-md- col-sm-12 col-xs-12">
-                    <a class="btn btn-light-bg" href="contacto.php" title="¡Sumate a la iniciativa!">
-                        <b>
-                          Impactemos juntos en la vida de otros para transformar la sociedad.
-                        </b>
-                    </a>
-                </div>
-            </div>
-        </section>
-        <section id="about" class="about_us section-padding">
-			<div class="container">
-				<div class="row">					                  					                                                           
-                   <div class="col-md-12 col-sm-12 col-xs-12">
+                            <div class="row cold-md-12 col-sm-12 col-xs-12">
+                                <a class="btn btn-light-bg" href="contacto.php" title="¡Sumate a la iniciativa!">
+                                  <b>Impactemos juntos en la vida de otros para transformar la sociedad. </b>
+                                </a>
+                            </div>
+                            <br><br>
+                            <br><br>
+                            <div class="about_content">
+                            <img src="assets/img/socials/brilla_la_vida_dr_Oxilia4.png" alt="Dr Oxilia">
+                            <div class="col-md-6 col-sm-12 col-xs-12">
 						<div class="about_content">
-                        <img src="assets/img/socials/brilla_la_vida_dr_Oxilia4.png" alt="Dr Oxilia">
-                        <br><br>
-                        <p>Así lo hizo el doctor Mario Oxilia dermatólogo del  Hospital Ramos Mejía, uno de los más importantes del país,</p>
-                         <p>dio una charla abierta sobre problemas de piel y métodos anticonceptivos muy beneficiosa para la comunidad.</p>
-                        <br><br>
+                              <p>Así lo hizo el doctor Mario Oxilia dermatólogo del  Hospital Ramos Mejía, uno de los más importantes del país, dio una charla abierta sobre problemas de piel y métodos anticonceptivos muy beneficiosa para la comunidad.</>
+                              <br><br>
+                            </div>
+                        </div>
+                        </div>
+                    </div>                
+                        </div>
                         </div>
                     </div>                   
 				</div>

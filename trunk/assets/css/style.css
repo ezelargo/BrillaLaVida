@@ -471,15 +471,15 @@ color:#fff!important;
     z-index: -1;
 }
 .slide-1 {
-    background: url(../img/slider/brilla_la_vida_slider_1.jpg) scroll 0 0;
+    background: url(../img/slider/brilla_la_vida_slider_oscurecida_1.jpg) scroll 0 0;
     background-size: cover;
 }   
 .slide-2 {
-    background: url(../img/slider/brilla_la_vida_slider_2.jpg) scroll 0 0;
+    background: url(../img/slider/brilla_la_vida_slider_oscurecida_2.jpg) scroll 0 0;
     background-size: cover;
 }
 .slide-3 {
-    background: url(../img/slider/brilla_la_vida_slider_3.jpg) scroll 0 0;
+    background: url(../img/slider/brilla_la_vida_slider_oscurecida_3.jpg) scroll 0 0;
     background-size: cover;
 }
 .carousel-fade .carousel-inner .item {

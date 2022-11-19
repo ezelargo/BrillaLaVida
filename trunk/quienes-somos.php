@@ -22,7 +22,7 @@
     <div class="container"> 
         <div class="row text-center"> 
             <div class="section-title wow zoomIn">
-                <h2>Versión Equipo</h2>
+                <h2>“Unidos para ayudar”</h2>
                 <span></span>
                 <p>Como equipo nos proponemos tener una conciencia crítica que modele una conciencia global para compartir y cooperar.
                 <br><br>
@@ -69,21 +69,7 @@
                         -->
                     </div>
                 </div>
-            </div>
-            <div class="col-md-3 col-sm-6">
-                <div class="single_team"> 
-                    <img class="img-responsive" src="assets/img/team/brilla_la_vida_soledad_sciutto_nuevo.jpg" alt="Soledad Sciutto">
-                    <h5 class="team-name">Lider de Redes Sociales: <br> Soledad Sciutto</h5>
-                    <div class="team-hover">
-                        <h5 style="font-size:.9em;">Relaciones Sociales</h5>
-                        <br>
-                        <p style="font-size:.9em;">
-
-                        </p>	
-                        <br>
-                    </div>
-                </div>
-            </div>                                                                                                                                                                          
+            </div>                                                                                                                                                                                 
             <div class="col-md-3 col-sm-6">
                 <div class="single_team"> 
                     <img class="img-responsive" src="assets/img/team/brilla_la_vida_brian_canete.jpg" alt="Brian Cañete">
@@ -135,7 +121,21 @@
                         <br> 
                     </div>
                 </div>
-            </div>                                                                                                        
+            </div> 
+            <div class="col-md-3 col-sm-6">
+                <div class="single_team"> 
+                    <img class="img-responsive" src="assets/img/team/brilla_la_vida_Mariana_Urdaniz.jpeg" alt="Mariana Urdaniz">
+                    <h5 class="team-name"> <br> Mariana Urdaniz</h5>
+                    <div class="team-hover">
+                        <h5 style="font-size:.9em;">Redactora publicitaria y agente de Marketing digital para Web Brilla</h5>
+                        <br>
+                        <p style="font-size:.9em;">
+
+                        </p>	
+                        <br>
+                    </div>
+                </div>
+            </div>                                                                                                         
         </div>
     </div>
 </section>
@@ -145,13 +145,13 @@
                     <div class="col-md-6 col-sm-12 col-xs-12">
 						<div class="about_content text-center">
 							<h1>Visión</h1>
-                            <p>Un mundo más equitativo, igualitario e inclusivo es posible si unimos recursos y aportamos esfuerzos dentro de un marco de cooperación mutua.</p>
+                            <p class="text-vision-mision">Un mundo más equitativo, igualitario e inclusivo es posible si unimos recursos y aportamos esfuerzos dentro de un marco de cooperación mutua.</p>
                         </div>
                     </div>
                     <div class="col-md-6 col-sm-12 col-xs-12">
 						<div class="about_content text-center">
 							<h1>Misión</h1>
-                            <p>Buscamos que la educación sea un recurso accesible para todas las personas porque consideramos que es una herramienta que puede cambiar el mundo.</p>                            
+                            <p class="text-vision-mision">Buscamos que la educación sea un recurso accesible para todas las personas porque consideramos que es una herramienta que puede cambiar el mundo.</p>                            
                         </div>
                     </div>
                 </div>

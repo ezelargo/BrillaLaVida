@@ -11,6 +11,7 @@
                       <li data-target="#team__carousel" data-slide-to="1"></li>
                       <li data-target="#team__carousel" data-slide-to="2"></li>
                       <li data-target="#team__carousel" data-slide-to="3"></li>
+                      <li data-target="#team__carousel" data-slide-to="4"></li>
                     </ol>
                     <div class="carousel-inner text-center">
                         <div class="item active">
@@ -29,14 +30,26 @@
                         </div>
                         <div class="item">
                             <div class="testimonial-text">
-                            <iframe width="934" height="434" src="https://www.youtube.com/embed/lDfOw8twfE4" title="Testimonio de Lucas Blanco" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            <img  src="assets/img/team/brilla_la_vida_lucas_blanco.png" alt="Lucas Blanco">
+                                <p> “...Formar parte de Brilla fue enriquecedor,  los chicos y chicas me hicieron sentir muy cómodo y me brindaron gratuitamente su tiempo, fue un ambiente muy agradable y en donde se intenta mejorar la calidad de vida de las personas…”</p>
                                 <h4>Lucas Blanco</h4>
                             </div>
                         </div>
                         <div class="item">
                             <div class="testimonial-text">
-                            <iframe width="934" height="434" src="https://www.youtube.com/embed/c84esfy_WZc" title="Video testimonio de Eliana" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            <img  src="assets/img/team/brilla_la_vida_eliana_ramos.png" alt="Eliana Ramos">
+                            <p> “...Estuve realizando el curso de community manager y publicidad, hace poquito lo terminé.
+                                 Al finalizar el curso me llego la invitacion de Brilla La Vida para formar parte como voluntaria, estoy super feliz porque me brindaron un lugar hermoso donde me permite demostrar parte de lo que me gusta hacer.
+                                 No dudes en sumarte, como voluntario o tambien podés colaborar con tu granito de arena…”</p>
                                 <h4>Eliana Ramos </h4>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="testimonial-text">
+                                <img  src="assets/img/team/brilla_la_vida_sofía_vidueiro.png" alt="Sofía Vidueiro">
+                                <p>“...Si ustedes son estudiantes o terminaron sus carreras, cursos y les gustaria tener un poquito de experiencia para sus curriculums
+                                     Brilla la vida les da su oportunidad. Lo recomiendo mucho, y espero que se unan a este grupo tan lindo y nos ayuden a seguir ayudando…”</p>
+                                <h4>Sofía Vidueiro</h4>
                             </div>
                         </div>
                     </div>
