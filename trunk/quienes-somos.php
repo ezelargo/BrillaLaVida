@@ -53,9 +53,9 @@
             <div class="col-md-3 col-sm-6">
                 <div class="single_team"> 
                     <img class="img-responsive" src="assets/img/team/brilla_la_vida_romina_blanco_nueva.jpg" alt="Romina Blanco">
-                    <h5 class="team-name">Lider: Romina Blanco</h5>
+                    <h5 class="team-name">Romina Blanco</h5>
                     <div class="team-hover">
-                        <h5 style="font-size:.9em;">Lider de Recursos humanos</h5>
+                        <h5 style="font-size:.9em;">Fundadora y Lider de brilla la vida</h5>
                         <br>
                         <p style="font-size:.9em;">
             
@@ -72,21 +72,8 @@
             </div>                                                                                                                                                                                 
             <div class="col-md-3 col-sm-6">
                 <div class="single_team"> 
-                    <img class="img-responsive" src="assets/img/team/brilla_la_vida_brian_canete.jpg" alt="Brian Cañete">
-                    <h5 class="team-name" style="background-color: #0999a7;">Co-Líder: Brian Cañete</h5>
-                    <div class="team-hover" style="background-color: #0999a7;">
-                        <h5 style="font-size:.9em;">Gestión de contenido y RRSS</h5>
-                        <br>
-                        <p style="font-size:.9em;">
-            
-                        <br> 
-                    </div>
-                </div>
-            </div>   
-            <div class="col-md-3 col-sm-6">
-                <div class="single_team"> 
                     <img class="img-responsive" src="assets/img/team/brilla_la_vida_foto_nueva3.jpg" alt="Eliana Ramos">
-                    <h5 class="team-name">Colaboradora: <br> Eliana Ramos</h5>
+                    <h5 class="team-name">Eliana Ramos</h5>
                     <div class="team-hover">
                         <h5 style="font-size:.9em;">Community Mannager</h5>
                         <br>
@@ -99,7 +86,7 @@
             <div class="col-md-3 col-sm-6">
                 <div class="single_team"> 
                     <img class="img-responsive" src="assets/img/team/brilla_la_vida_foto_nueva2.jpg" alt="Sofia Vidueiro">
-                    <h5 class="team-name">Colaboradora: <br> Sofia Vidueiro</h5>
+                    <h5 class="team-name">Sofia Vidueiro</h5>
                     <div class="team-hover">
                         <h5 style="font-size:.9em;">Community Mannager</h5>
                         <br>
@@ -112,7 +99,7 @@
             <div class="col-md-3 col-sm-6">
                 <div class="single_team"> 
                     <img class="img-responsive" src="assets/img/team/brilla_la_vida_Dorka_Tirado.png" alt="Dorka Tirado">
-                    <h5 class="team-name">Colaboradora: <br> Dorka Tirado</h5>
+                    <h5 class="team-name">Dorka Tirado</h5>
                     <div class="team-hover">
                         <h5 style="font-size:.9em;">Community Mannager</h5>
                         <br>
