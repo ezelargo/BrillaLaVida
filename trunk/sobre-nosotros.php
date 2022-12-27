@@ -29,7 +29,7 @@
 							<h1>Identidad</h1>
 							<p>Brilla la Vida es un grupo solidario sin fines de lucro que trabaja día a día, sumando mayores expectativas, ideas y nuevos proyectos solidarios por llevar a cabo.</p>
                             <br>
-                            <p>"Cuando uno brilla, brilla la vida y se enciende todo a tu alrededor", dice una canción de la cantante Patricia Sosa. Y con esas palabras como consigna, <b>Romina Blanco</b>, fundadora y coordinadora general de la ONG tomó la iniciativa en el año 2015 de ayudar al Hospital Ramos Mejía. Así nació el grupo solidario que pronto llevaría el nombre de <b>Brilla la Vida</b>.</p>
+                            <p>"Cuando uno brilla, brilla la vida y se enciende todo a tu alrededor", dice una canción de la cantante Patricia Sosa. Y con esas palabras como consigna, <b>Romina Blanco</b>, fundadora y coordinadora general del grupo solidario tomó la iniciativa en el año 2015 de ayudar al Hospital Ramos Mejía. Así nació el grupo solidario que pronto llevaría el nombre de <b>Brilla la Vida</b>.</p>
 							<p class="mbtop">Formado por estudiantes que muestran su interés por la causa, esta organización comenzó a tomar vida gracias a la colaboración de mucha gente y, con gran éxito, "Brilla la vida" sigue creciendo.</p>
 						</div>
                     </div>
