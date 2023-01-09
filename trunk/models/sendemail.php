@@ -9,14 +9,16 @@
 	*/
 
 	$userName = trim(stripslashes($_POST["name"]));
-    $userEmail = trim(stripslashes($_POST["email"]));    
+	$userBusiness = trim(stripslashes($_POST["business"]));
+    $userEmail = trim(stripslashes($_POST["email"]));
+	$userPhone = trim(stripslashes($_POST["phone"]));   
     $userSubject = trim(stripslashes($_POST["subject"]));
     $userMessage = trim(stripslashes($_POST["message"]));
 	$gRecaptchaResponse = trim(stripslashes($_POST["recaptcha"]));
 
 	$inputs = array(
-									"nombre" => $userName, "email" => $userEmail,
-									"asunto" => $userSubject, "mensaje" => $userMessage, 
+									"nombre" => $userName, "business" =>$userBusiness,  "email" => $userEmail,
+									"phone" => $userPhone, "asunto" => $userSubject, "mensaje" => $userMessage, 
                                     "captcha" => $gRecaptchaResponse
 								);
 

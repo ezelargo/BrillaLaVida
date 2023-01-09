@@ -462,7 +462,7 @@ color:#fff!important;
 }
 .single-slide-item:after {
     position: absolute;
-    background: rgba(0,0,0,0.6);
+    background: rgba(0, 0, 0, 0.096);
     left: 0;
     top: 0;
     width: 100%;
@@ -471,15 +471,15 @@ color:#fff!important;
     z-index: -1;
 }
 .slide-1 {
-    background: url(../img/slider/brilla_la_vida_slider_1.jpg) scroll 0 0;
+    background: url(../img/slider/brilla_la_vida_slider_oscurecida_1.jpg) scroll 0 0;
     background-size: cover;
 }   
 .slide-2 {
-    background: url(../img/slider/brilla_la_vida_slider_2.jpg) scroll 0 0;
+    background: url(../img/slider/brilla_la_vida_slider_oscurecida_2.jpg) scroll 0 0;
     background-size: cover;
 }
 .slide-3 {
-    background: url(../img/slider/brilla_la_vida_slider_3.jpg) scroll 0 0;
+    background: url(../img/slider/brilla_la_vida_slider_oscurecida_3.jpg) scroll 0 0;
     background-size: cover;
 }
 .carousel-fade .carousel-inner .item {
@@ -548,6 +548,7 @@ letter-spacing: 1px;
 line-height: 48px;
 margin-bottom: 15px;
 }
+
 .about_content p{}
 
 .mbtop{margin-top: 20px;}
@@ -1008,6 +1009,7 @@ position:relative;
 color:#fff;
 margin-bottom:30px;
 }
+
 .testimonial-text p {
 color: #fff;
 font-size: 18px;
@@ -1509,6 +1511,8 @@ padding: 40px 0;
 .section_grey
 {
   background: #f1f1f1;  
-} 
+}
 
-
+.circular--square {
+    border-radius: 50%;
+  }

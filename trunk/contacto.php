@@ -41,14 +41,17 @@
 									<div class="form-group col-md-12">
 										<input type="text" name="name" class="form-control" id="first-name" placeholder="Nombre" required="required">
 									</div>
+                  <div class="form-group col-md-12">
+										<input type="text" name="business" class="form-control" id="business" placeholder="Empresa">
+									</div>
 									<div class="form-group col-md-12">
 										<input type="email" name="email" class="form-control" id="email" placeholder="Correo electronico" required="required">
 									</div>
 									<div class="form-group col-md-12">
-										<input type="text" name="subject" class="form-control" id="subject" placeholder="Asunto" required="required">
+										<input type="tel" name="phone" class="form-control" id="phone" placeholder="telefono" required="required">
 									</div>
 									<div class="form-group col-md-12">
-										<textarea rows="6" name="message" class="form-control" id="description" placeholder="Tu mensaje" required="required"></textarea>
+										<textarea rows="6" name="message" class="form-control" id="description" placeholder="Tu mensaje"></textarea>
 									</div>                                    
                                     <div class="form-group col-md-12">
 										<div class="g-recaptcha" data-sitekey="6LcwYj4UAAAAAIx5eW4atSIi2wIbc9Ue2slGmkw3"></div>
@@ -107,8 +110,9 @@
 
                 var data = {
                         'name': $this.find('input[name=name]').val(),
-                        'email': $this.find('input[name=email]').val().trim(),                        
-                        'subject': $this.find('input[name=subject]').val(),
+                        'bussines': $this.find('input[name=bussines]').val(),
+                        'email': $this.find('input[name=email]').val().trim(),
+                        'phone': $this.find('textarea[name=phone]').val().trim(),                        
                         'message': $this.find('textarea[name=message]').val().trim(),
                         'recaptcha': grecaptcha.getResponse(),
                 };

@@ -3,7 +3,7 @@
    <?php
       require_once("models/header.class.php");
       $header = new Header();
-      $header->setTitle("Sobre nosotros");    
+      $header->setTitle("Conocenos");    
       $header->setDescription("Somos un grupo solidario con ganas de ayudar y cambiar la realidad de muchas personas. Unimos nuestros talentos para poder aportar nuestro granito de arena a la sociedad.");
       include("shared/header.php");
       ?>	
@@ -13,7 +13,7 @@
         
         <?php 
             $top_icon = 'fa-sun-o';
-            $top_title = 'Sobre nosotros';
+            $top_title = 'Conocenos';
             include("shared/section-top.php"); 
         ?>
         
@@ -21,15 +21,15 @@
 			<div class="container">
 				<div class="row">
 					<div class="section-title text-center">
-						<h2>Somos un grupo solidario con muchas ganas de ayudar y cambiar la realidad de muchas personas. Unimos nuestros talentos y conocimientos para poder aportar nuestro granito de arena a la sociedad.</h2>
+						<h2>Somos un <b>grupo solidario</b> con muchas ganas de <b>ayudar</b> y cambiar la realidad de las personas. Unimos nuestros <b>talentos y conocimientos</b> para sumar <b>valores y bienestar a la sociedad.</b></h2>
 						<span></span>
 					</div>					
                    <div class="col-md-6 col-sm-12 col-xs-12">
 						<div class="about_content">
 							<h1>Identidad</h1>
-							<p>Brilla la Vida es una organización sin fines de lucro que trabaja día a día, sumando mayores expectativas, ideas y nuevos proyectos solidarios por llevar a cabo.</p>
+							<p>Brilla la Vida es un grupo solidario sin fines de lucro que trabaja día a día, sumando mayores expectativas, ideas y nuevos proyectos solidarios por llevar a cabo.</p>
                             <br>
-                            <p>"Cuando uno brilla, brilla la vida y se enciende todo a tu alrededor", dice una canción de la cantante Patricia Sosa. Y con esas palabras como consigna, <b>Romina Blanco</b>, fundadora y coordinadora general de la ONG tomó la iniciativa en el año 2015 de ayudar al Hospital Ramos Mejía. Así nació el grupo solidario que pronto llevaría el nombre de <b>Brilla la Vida</b>.</p>
+                            <p>"Cuando uno brilla, brilla la vida y se enciende todo a tu alrededor", dice una canción de la cantante Patricia Sosa. Y con esas palabras como consigna, <b>Romina Blanco</b>, fundadora y coordinadora general del grupo solidario tomó la iniciativa en el año 2015 de ayudar al Hospital Ramos Mejía. Así nació el grupo solidario que pronto llevaría el nombre de <b>Brilla la Vida</b>.</p>
 							<p class="mbtop">Formado por estudiantes que muestran su interés por la causa, esta organización comenzó a tomar vida gracias a la colaboración de mucha gente y, con gran éxito, "Brilla la vida" sigue creciendo.</p>
 						</div>
                     </div>
@@ -41,26 +41,6 @@
 				</div>
 			</div>
 		</section>			
-        
-        <section class="about_us section-padding">
-			<div class="container">
-				<div class="row">
-                    <div class="col-md-6 col-sm-12 col-xs-12">
-						<div class="about_content text-center">
-							<h1>Visión</h1>
-                            <p>Ser reconocidos como una organización social sin ánimo de lucro innovadora, abierta al entorno, referente de su área y cuya acción esté orientada a la calidad en la integración social y la ayuda al prójimo, impulsadas por una alta motivación del voluntariado que la conforma.</p>
-                        </div>
-                    </div>
-                    <div class="col-md-6 col-sm-12 col-xs-12">
-						<div class="about_content text-center">
-							<h1>Misión</h1>
-                            <p>Brilla la vida, es una organización que tiene como misión realizar eventos solidarios benéficos para instituciones tales como hospitales, comedores y escuelas carenciadas.                               
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-
         <section class="our_activites">
             <div class="container">
                 <div class="row text-center">

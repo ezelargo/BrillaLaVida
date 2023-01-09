@@ -5,7 +5,8 @@
                 <div class="single_footer">
                     <h4>Sobre Brilla</h4>
                     <div class="footer_contact">
-                        <p>Somos un grupo solidario con muchas ganas de ayudar y cambiar la realidad de muchas personas. unimos nuestros talentos y conocimientos para poder aportar nuestro granito de arena a la sociedad.</p>
+                        <p>Unidos queremos brindar a los emprendedores y profesionales que quieren ganar experiencia el acceso al conocimiento y las relaciones interpersonales que puedan posicionarlos en un entorno que impulse su negocio/carrera.
+                        Las empresas encuentran de la mano de Brilla diversas oportunidades a las que sumarse para construir una causa social que los conecte con su público.</p>
                     </div>
                 </div>	
             </div><!--- END COL -->
@@ -14,14 +15,12 @@
                     <h4>Nuestra web</h4>
                     <div class="footer_contact">
                         <ul>
-                            <li><a href="sobre-nosotros.php">Sobre nosotros</a></li>                            
-                            <li><a href="nuestro-equipo.php">Nuestro Equipo</a></li>
-                            <li><a href="nuestras-causas.php">Nuestras causas</a></li>       
-                            <li><a href="eventos.php">Eventos</a></li>
-                            <li><a href="formar-parte-de-brilla-la-vida.php">Formar parte</a></li>						                    
-                            <li><a href="confian-en-nosotros.php">Confían en nosotros</a></li>		
-                            <li><a href="artistas-solidarios.php">Artistas solidarios</a></li>      
-                            <li><a href="dona-ahora.php">Dona ahora</a></li>                            
+                            <li><a href="sobre-nosotros.php">Conocenos</a></li>
+                            <li><a href="que-hacemos.php">¿Qué hacemos?</a></li>
+                            <li><a href="quienes-somos.php">¿Quienes somos?</a></li>
+                            <li><a href="formar-parte-de-brilla-la-vida.php">Se voluntari@</a></li>	                                
+                            <li><a href="nuestras-causas.php">Nuestras causas</a></li>       					                    
+                            <li><a href="cambia-tu-entorno.php">Cambia tu entorno</a></li>		                                
                             <li><a href="contacto.php">Contacto</a></li>                                                        
                         </ul>
                     </div>

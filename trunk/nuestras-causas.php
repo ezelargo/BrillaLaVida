@@ -24,20 +24,11 @@
 						<h2>El compromiso es nuestra base para cumplir con los objetivos y reconocer las necesidades de la sociedad.</h2>
 						<span></span>
 					</div>					                    
-                    <div class="col-md-12 col-sm-12 col-xs-12">
+                    <div class="col-md-6 col-sm-12 col-xs-12">
 					 	<div class="about_content">
-							<h1>1er Causa solidaria (Año 2015)</h1>
+							<h2>Brilla en los hospitales</h2>
 							<p style="margin-left: 10px;">
-                                En nuestra primera causa solidaria, ayudamos al servicio de <b>kinesiología del Hospital Ramos Mejía</b>. Cumplimos nuestro objetivo: proveer de insumos al servicio. 
-                                El éxito de esta primer misión fue posible a la pasión, al compromiso, a la actitud que hemos puesto en grupo. 
-                                <br><br>
-                                Para realizar las donaciones, se recaudó dinero a través de un video solidario que recorrió las redes sociales y fue posible gracias a <b>Nobleza Obliga</b>, 
-                                una empresa de financiamiento colectivo que apoya a proyectos solidarios. 
-                                <br>
-                                Con lo recaudado se donaron tres lámparas infrarrojas, cuatro bandas de resistencias 
-                                para pacientes con enfermedades crónicas (tales como artritis, artrosis). regalos para el plantel de kinesiólogos, un fichero organizador con las hojas para archivar 
-                                la historia clínica de los pacientes.
-                            </p>
+							Todo ser humano tiene derecho a una atención hospitalaria digna y cuidada, por eso cuando en los hospitales o asistencias sociales los insumos son escasos esto atenta contra el derecho de las personas de recibir una atención justa. Brilla encuentra la manera de solventar y ayudar en estos casos para nutrir de los insumos y productos que hagan falta para garantizar un nacimiento digno, una rehabilitación con las herramientas que corresponden y una atención respetuosa de la salud de las personas.</p>
 						</div>
                     </div>                               
 				</div>
@@ -45,181 +36,64 @@
                 <div class="row" style="margin-top: 20px;">									                    
                     <div class="col-md-6 col-sm-12 col-xs-12">
 					 	<div class="about_content">
-							<h1>2da Causa solidaria (Año 2017)</h1>
+							<h2>Brilla y la educación</h2>
 							<p style="margin-left: 10px;">
-                                El jefe del área de <b>cardiología del Hospital Ramos Mejia</b>, se comunicó con Brilla la vida para pedirnos ayuda y e informarnos sobre la falta de diversos insumos. En este servicio se atienden pacientes de diferentes condiciones sociales y es importante poder ayudarlos.
-                                <br>                                                                                                
-                            </p>
+							La educación es la herramienta más poderosa para generar cambios desde la paz, una capacitación de calidad y disponible para todos es necesaria para alcanzar una sociedad equitativa y justa. Es por eso que en Brilla nos esforzamos por convocar profesionales que quieran dar charlas, capacitaciones, entrevistas que puedan enriquecer y aportar valor a personas en situación de búsqueda laboral o que requieran formación académica para acceder a puestos de trabajo.</p>
 						</div>
                     </div>                   
+				</div>
+				<div class="row" style="margin-top: 20px;">									                    
                     <div class="col-md-6 col-sm-12 col-xs-12">
-						<div class="about-slide">
-							<img src="assets/img/causas/brilla_la_vida_hospital_ramos_mejia_causa2_600x400.jpg" alt="Hospital Ramos Mejia">
+					 	<div class="about_content">
+							<h2>Brilla con los emprendedores</h2>
+							<p style="margin-left: 10px;">
+							Emprender significa arriesgar, vencer los miedos y lanzarse a transitar por un camino desconocido, pero qué bueno es hacerlo con las herramientas y la compañía adecuada. En Brilla queremos acompañarte y capacitarte para que el temor a lo desconocido pueda mermar y comiences a vivir la vida desde tu propósito. 
+                        <br><br>
+						El aprendizaje de nuevas habilidades, el uso de plataformas y maneras de comunicar tu emprendimiento son muy necesarias para el futuro próspero de tu negocio, estamos felices de que emprendas ese camino con nosotros y la guía de nuestros formadores voluntarios.</p>
 						</div>
-                    </div>
+                    </div>                   
+				</div>
+				<div class="row" style="margin-top: 20px;">									                    
+                    <div class="col-md-6 col-sm-12 col-xs-12">
+					 	<div class="about_content">
+							<h2>Brilla capacita</h2>
+							<p style="margin-left: 10px;">
+							Nuestra directora está en constante búsqueda de profesionales que quieran contribuir con nuestro equipo dando charlas de capacitación, webinars, conferencias presenciales y virtuales donde se abordan temas como:</p>
+							<br><br>
+							<div class="row">
+                               <a class="btn" href="https://www.instagram.com/reel/CWJmCLODNM-/?utm_source=ig_web_copy_link">
+                                    <b> “Cómo crear tu curriculum adecuadamente” </b>
+                               </a>	
+                            </div>
+							<br>
+							<div class="row">
+                               <a class="btn" href="https://www.instagram.com/accounts/login/?next=%2Freel%2FCgAge22Awdx%2F&source=omni_redirect">
+                                  <b> “Gestión de emociones en una entrevista laboral” </b>
+                               </a>
+                            </div>
+							<br>
+							<div class="row">
+                                <a class="btn" href="https://www.instagram.com/tv/CbczP8QAUCO/">
+                                   <b> “Crear tu perfil de Linkedln más atractivo” y más temas que pueden encontrar en nuestra cuenta de Instagram.</b>
+                                </a>
+                            </div>
+						</div>
+                    </div>                   
 				</div>
 			</div>
-		</section>		               
-						                				
-		<section class="section-padding">
-			<div class="container">		
-				<div class="row">					
-                    <div class="section-title text-center">
-						<h2>Objetivo Hospital Ramos Mejía</h2>
-						<span></span>
-						<p>
-                            El jefe del área de Cardiología del Hospital Ramos Mejía, se comunicó con Brilla la vida para pedirnos ayuda e informarnos sobre la falta de diversos insumos,
-                            a su pedido se sumaron los servicios de Dermatología, Neonatologia y Maternidad que tambien requieren insumos de primera necesidad que son prioritarios para 
-                            la atención de muchos pacientes de escasos recursos que concurren a diario al hospital.
-                        </p>
-					</div>	
-					<div class="col-md-4 col-sm-4 col-xs-12 wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.1s" data-wow-offset="0">
-						<div class="single-blog">
-							<div class="single-img">
-								<img src="assets/img/causas/flyers/brilla_la_vida_servicio_maternidad.jpg" class="img-responsive" alt="Servicio de Maternidad"/>
-								<div class="post-date">
-									<h4><i class="fa fa-heart" style="color: red;" aria-hidden="true"></i></h4>                                    
-								</div>									
-							</div>	
-						</div>
-					</div>
-					<div class="col-md-4 col-sm-4 col-xs-12 wow fadeInDown" data-wow-duration="1s" data-wow-delay="0.1s" data-wow-offset="0">
-						<div class="single-blog">
-							<div class="single-img">
-								<img src="assets/img/causas/flyers/brilla_la_vida_servicio_neonatologia.jpg" class="img-responsive" alt="Servicio de Neonatologia"/>
-								<div class="post-date">
-									<h4><i class="fa fa-heart" style="color: red;" aria-hidden="true"></i></h4>                                    
-								</div>								
-							</div>	
-						</div>
-					</div>
-					<div class="col-md-4 col-sm-4 col-xs-12 wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.1s" data-wow-offset="0">
-						<div class="single-blog">
-							<div class="single-img">
-								<img src="assets/img/causas/flyers/brilla_la_vida_servicio_neonatologia2.jpg" class="img-responsive" alt="Servicio de Neonatologia"/>
-								<div class="post-date">
-									<h4><i class="fa fa-heart" style="color: red;" aria-hidden="true"></i></h4>                                    
-								</div>								
-							</div>	
-						</div>
-					</div>                                       
-				</div>
-                <div class="row" style="margin-top: 20px;">						
-					<div class="col-md-4 col-sm-4 col-xs-12 wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.1s" data-wow-offset="0">
-						<div class="single-blog">
-							<div class="single-img">
-								<img src="assets/img/causas/flyers/brilla_la_vida_servicio_dermatologia.jpg" class="img-responsive" alt="Servicio de Dermatologia"/>
-								<div class="post-date">
-									<h4><i class="fa fa-heart" style="color: red;" aria-hidden="true"></i></h4>                                    
-								</div>									
-							</div>	
-						</div>
-					</div>
-					<div class="col-md-4 col-sm-4 col-xs-12 wow fadeInDown" data-wow-duration="1s" data-wow-delay="0.1s" data-wow-offset="0">
-						<div class="single-blog">
-							<div class="single-img">
-								<img src="assets/img/causas/flyers/brilla_la_vida_servicio_dermatologia2.jpg" class="img-responsive" alt="Servicio de Dermatologia"/>
-								<div class="post-date">
-									<h4><i class="fa fa-heart" style="color: red;" aria-hidden="true"></i></h4>                                    
-								</div>								
-							</div>	
-						</div>
-					</div>					                                       
-                    <div class="col-md-4 col-sm-4 col-xs-12 wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.1s" data-wow-offset="0">
-						<div class="single-blog">
-							<div class="single-img">
-								<img src="assets/img/causas/flyers/brilla_la_vida_servicio_cardiologia.jpg" class="img-responsive" alt="Servicio de cardiología"/>
-								<div class="post-date">
-									<h4><i class="fa fa-heart" style="color: red;" aria-hidden="true"></i></h4>                                    
-								</div>								
-							</div>	
-						</div>
-					</div>					                                       
-				</div>
-			</div>
-		</section>
-        
-        <style type="text/css">
-            .post-date
-            {
-                top: 85% !important;
-            }
-        </style>
-        
-        <section class="section-padding">
+		</section>             		
+		<section class="section_grey section-padding">
 			<div class="container">
 				<div class="row text-center">
-					<div class="section-title">
-						<h2>Objetivos Brilla la vida</h2>
-						<span></span>
-					</div>
-					<div class="col-sm-12 col-md-12" style="margin-bottom: 20px;">				   
-					   <div class="plan first recommended">
-						  <div class="head head_color_one"><h3><i class="fa fa-id-card" aria-hidden="true"></i> Identidad de Asociación Civil</h3></div> 
-						  <div class="price">
-							<h3><i class="fa fa-university" aria-hidden="true"></i></h3>							
-						  </div>						  
-						  <ul class="item-list" style="height: 200px !important;">
-							  <li style="padding-top: 20px; padding-bottom: 20px;">Tenemos como objetivo lograr la identidad de Asociación Civil, para darle a <b>Brilla la vida</b> una transparencia jurídica que nos permita seguir trabajando y seguir 
-                                  involucrándonos con las necesidades de la sociedad, como hospitales públicos, comedores comunitarios y escuelas carenciadas.</li>							  
-						  </ul>
-						 <a class="btn btn-light-bg" href="formar-parte-de-brilla-la-vida.php">
-                             <b>
-                                <i class="fa fa-thumbs-up" aria-hidden="true"></i>
-                                ¡Sumate ahora!
-                             </b>
-                           </a>
-					   </div>					 					
-					</div>
-					<div class="col-sm-6 col-md-6" style="margin-bottom: 20px;">					  
-						  <div class="plan recommended">
-							<div class="head head_color_two"><h3><i class="fa fa-heart" aria-hidden="true"></i> Empresas donantes</h3></div> 
-							<div class="price">
-							  <h3><i class="fa fa-handshake-o" aria-hidden="true"></i></h3>
-							</div>							
-							<ul class="item-list">                                
-                                <li>Necesitamos de aquellas <b>empresas u organizaciones que se sientan identificadas con lo que hacemos</b>, las invitamos a trabajar en forma 
-                                        conjunta a ser partícipes del cambio que buscamos para diversas instituciones que necesitan de nuestra ayuda.</li>                                
-                                <li>Pueden colaborar con <b>donaciones de insumos</b> para los diferentes servicios del Hospital Ramos Mejía,
-                                    donando <b>vouchers</b> utilizadas luego en rifas que tiene como fin la recaudación de fondos para nuestra organización o para sortearlas en nuestros eventos solidarios a beneficio.</li>
-							</ul>
-							<a class="btn btn-light-bg" href="contacto.php">
-                             <b>
-                                <i class="fa fa-thumbs-up" aria-hidden="true"></i>
-                                ¡Sumate ahora!
-                             </b>
-                            </a>
-					   </div>
-					</div>
-					<div class="col-sm-6 col-md-6">  
-						<div class="plan last recommended">
-							<div class="head head_color_three"><h3><i class="fa fa-heart" aria-hidden="true"></i> Sumar voluntarios</h3></div>
-							<div class="price">
-							  <h3><i class="fa fa-users" aria-hidden="true"></i></h3>							  
-							</div>							
-							<ul class="item-list" style="height: 285px !important;">
-							  <li>Otro <b>objetivo que creemos crucial es el de sumar voluntarios</b>, basándonos en el Reglamento de la Ley General del Voluntariado -Ley N° 28.238, el cual declara 
-                                  "de Interés Nacional la labor que realizan los voluntarios en el territorio nacional, en lo referido al servicio social que brindan a la comunidad en forma altruista y solidaria".</li>
-							</ul>
-							<a class="btn btn-light-bg" href="formar-parte-de-brilla-la-vida.php">
-                             <b>
-                                <i class="fa fa-thumbs-up" aria-hidden="true"></i>
-                                ¡Sumate ahora!
-                             </b>
-                            </a>
-						</div>
-					</div>
-				</div>
-			</div>
-		</section>
-        
-        <style type="text/css">
-            div.plan
-            {
-                height: 550px !important;   
-            }                       
-        </style>    
-                
+                    <a class="btn btn-light-bg" href="contacto.php" title="¡Sumate a la iniciativa!">
+                        <b> 
+                            Quiero adherir a una causa social
+                        </b>
+                    </a>
+                </div>
+            </div>
+        </section>
+	         
         <?php include('shared/contact.php'); ?>
 		
         <?php include('shared/footer.php'); ?>

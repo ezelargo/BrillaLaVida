@@ -28,7 +28,7 @@
 											<div class="row">
 												<div class="col-md-12">
                                                     <h2>Brilla la vida</h2>
-                                                    <p>Somos un grupo solidario con muchas ganas de ayudar y cambiar la realidad de muchas personas.</p>
+                                                    <p>Brilla conecta personas, conocimiento, educadores y soluciona necesidades reales con la ayuda de empresas y profesionales que quieren hacer su aporte para cambiar la sociedad.</p>
 													<div class="home_btn">
 														<a href="sobre-nosotros.php" class="app-btn wow bounceIn page-scroll home_btn_color_two" data-wow-delay=".6s" >Sobre nosotros</a>
 													</div>
@@ -93,20 +93,6 @@
 				</div>
 			</div>
 		</section>
-
-
-		 <section class="section-padding">
-			<div class="container">
-				<div class="row">
-					<div class="col-md-12 text-center">
-						<div class="single_promo">
-							<iframe width="560" height="315" src="https://www.youtube.com/embed/wJRqyBqyAi8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-						</div>
-					</div>
-				</div>
-			</div>
-		</section>
-		
 		
         <?php include('shared/valores.php'); ?>
         
@@ -118,7 +104,7 @@
 							<h1 style="font-size: 2.5em;">Sumate a nuestras causas con tu donación.</h1>
                             <div class="home_btn">
                                 <a href="dona-ahora.php" style="border: 1px solid white !important;" class="app-btn wow bounceIn page-scroll home_btn_color_two" data-wow-delay=".6s" >
-                                    ¡Dona Ahora!
+                                    Recibí información
                                 </a>
                             </div>
 						</div>

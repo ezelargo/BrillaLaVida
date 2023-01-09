@@ -5,9 +5,8 @@
                 <h2>Valores que nos representan</h2>
                 <span></span>
                 <p>
-                    Buscamos ser reconocidos por nuestra calidad humana y contribución a la comunidad, promover tanto el voluntariado como la responsabilidad social y, concientizar a la sociedad, motivando a que colaboren a través de la donación.
-                    <br><br>
-                    Nuestro objetivo es concientizar a la sociedad de la importancia de ayudar a quienes nos necesitan, de ser solidarios con nuestro prójimo.
+                Ayudar a los demás te diferencia, identifica y genera un cambio.
+                “ El altruismo es un impulso fundamental y hacer cosas por los demás con la fuerza más humilde y poderosa, el amor desinteresado, es el núcleo de lo que nos hace humanos.”
                 </p>
             </div>
             <div class="col-md-4 col-sm-4 col-xs-12">
